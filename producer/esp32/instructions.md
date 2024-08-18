@@ -8,3 +8,4 @@ Make sure that everything compiles correctly and the Serial Monitor is correctly
 
 The link also provides the Schematics, but I'll copy them here if you don't want to read through all the page:
 
+![esp32-scematics](https://github.com/user-attachments/assets/6185f8d8-95a6-45d5-9190-d87a558c71de)
