@@ -73,6 +73,8 @@ When installing Visual Studio, don't forget to select the **.NET development pac
 
 This is subject to change as I'll add/remove things, but it's a great starting point.
 
+![esp32-kafka-design](https://github.com/user-attachments/assets/95af858a-0dd2-4756-b161-06255b3bc0df)
+
 
 # HC-SR04 sensor
 
